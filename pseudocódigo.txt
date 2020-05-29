@@ -1,0 +1,9 @@
+Proceso de hacer limpieza - Luis Bonilla
+1- Ordeno mi cama
+2-Si existen trastes sucios los lavo
+3-Barro la sala, el comedor y los cuartos
+5-Recogo la basura
+6-Hecho la basura en el basurero el cual tiene que tener un bolsa; sino la tiene tengo que buscar una y colocarla
+7-Verifico si exista un trapiador limpio; sino tengo que lavarlo
+8-Trapeo
+9-Verifico si las plantas se necesitan agua; si las necesitan las riego
